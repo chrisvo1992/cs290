@@ -1,0 +1,22 @@
+table,th,td{
+    border:1px solid black;
+    empty-cells:show;
+}
+.restaurant{
+    font-style:italic;
+    font-weight:normal;
+}
+.outer-content{
+    width:75%;
+    background-color: pink;
+    padding: 20px;
+    margin: left;
+}
+
+.inner-content{
+    background-color: lightblue;
+    margin: auto;
+    width:75%;
+    text-align: center;
+}
+
